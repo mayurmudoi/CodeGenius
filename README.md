@@ -1,5 +1,6 @@
 # CodeGenius
-First we need to Clone the repository and install the necessary dependencies.
+### CodeGenius is the project name for the Simple login/Signup UI based react native code.
+## First we need to Clone the repository and install the necessary dependencies.
 
 ## Prerequisites
 Before getting started, ensure that you have the following prerequisites installed:
